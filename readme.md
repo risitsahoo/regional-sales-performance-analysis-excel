@@ -11,7 +11,6 @@
 - [Project Overview](#-project-overview)
 - [Business Problem Statement](#-business-problem-statement)
 - [Business Objectives](#-business-objectives)
-- [Dataset Overview](#-dataset-overview)
 - [Tools & Techniques](#-tools-&-techniques)
 - [Data Preparation & Cleaning](#-data-preparation--cleaning)
 - [Methods and Excel Implementation](#-methods--excel-implementation)
