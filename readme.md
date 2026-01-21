@@ -181,7 +181,7 @@ The dashboard provides a consolidated view of all major sales KPIs and performan
 
 ---
 
-## ▶️ How to Run the Project
+## ▶ How to Run the Project
 
 1. Download the Excel file from the repository  
 2. Open using **Microsoft Excel 2019 or later**  
