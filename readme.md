@@ -14,7 +14,7 @@
 - [Dataset Overview](#-dataset-overview)
 - [Tools & Techniques](#-tools-&-techniques)
 - [Data Preparation & Cleaning](#-data-preparation--cleaning)
-- [Methods and Excel Implementation](#-methods-&-excel-implementation)
+- [Methods and Excel Implementation](#-methods--excel-implementation)
 - [Files in This Repository](#-files-in-this-repository)
 - [Dashboard Overview](#-dashboard-overview)
 - [How to Run the Project](#-how-to-run-the-project)
