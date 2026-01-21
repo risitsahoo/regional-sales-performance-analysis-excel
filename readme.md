@@ -19,7 +19,7 @@
 - [Dashboard Overview](#-dashboard-overview)
 - [How to Run the Project](#-how-to-run-the-project)
 - [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
-- [Key Insights & Findings](#-key-insights-and-findings)
+- [Key Insights & Findings](#-key-insights--findings)
 - [Business Recommendations](#-business-recommendations)
 - [Conclusion](#-conclusion)
 - [Contact](#-contact)  
