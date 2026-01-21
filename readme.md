@@ -10,9 +10,9 @@
 
 - [Project Overview](#-project-overview)
 - [Business Problem Statement](#-business-problem-statement)
-- [Business Objectives](#-business-objectives)
-- [Tools & Techniques](#-tools--techniques)
+- [Business Objectives](#-business-objectives)       
 - [Data Preparation & Cleaning](#-data-preparation--cleaning)
+- [Tools & Techniques](#-tools--techniques)     
 - [Methods and Excel Implementation](#-methods--excel-implementation)
 - [Files in This Repository](#-files-in-this-repository)
 - [Dashboard Overview](#-dashboard-overview)
