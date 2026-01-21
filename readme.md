@@ -8,21 +8,21 @@
 
 ## 📑 Table of Contents
 
- [Project Overview](#-project-overview)   
- [Business Problem Statement](#-business-problem-statement)    
- [Business Objectives](#-business-objectives)    
- [Dataset Overview](#-dataset-overview)  
- [Tools & Techniques](#-tools--techniques)  
- [Data Preparation & Cleaning](#-data-preparation--cleaning)  
- [Methods and Excel Implementation](#-methods-and-excel-implementation)     
- [Files in This Repository](#-files-in-this-repository)  
- [Dashboard Overview](#-dashboard-overview)  
- [How to Run the Project](#-how-to-run-the-project)         
- [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
- [Key Insights & Findings](#-key-insights-&-findings)  
- [Business Recommendations](#-business-recommendations)  
- [Conclusion](#-conclusion)  
- [Contact](#-contact)  
+- [Project Overview](#-project-overview)
+- [Business Problem Statement](#-business-problem-statement)
+- [Business Objectives](#-business-objectives)
+- [Dataset Overview](#-dataset-overview)
+- [Tools & Techniques](#-tools-&-techniques)
+- [Data Preparation & Cleaning](#-data-preparation--cleaning)
+- [Methods and Excel Implementation](#-methods-and-excel-implementation)
+- [Files in This Repository](#-files-in-this-repository)
+- [Dashboard Overview](#-dashboard-overview)
+- [How to Run the Project](#-how-to-run-the-project)
+- [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
+- [Key Insights & Findings](#-key-insights-and-findings)
+- [Business Recommendations](#-business-recommendations)
+- [Conclusion](#-conclusion)
+- [Contact](#-contact)  
 
  
 ---
