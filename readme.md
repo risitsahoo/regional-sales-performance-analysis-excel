@@ -147,7 +147,7 @@ Lack of a centralized dashboard made analysis manual, slow, and inefficient.
 ## 📂 Files in This Repository
 
 ```
-📁 **Product Region Sales Performance & Analysis**  
+📁 **Regional Sales Performance Analysis**  
 │  
 ├── 📊 regional_sales_performance_analysis_dataset_&_dashboard (.xlsx)       # Project dataset and Excel dashboard file
 ├── 📄 regional_sales_performance_analysis_report (.pdf)                     # Detailed project report
