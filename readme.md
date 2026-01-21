@@ -10,14 +10,14 @@
 
  [Project Overview](#-project-overview)   
  [Business Problem Statement](#-business-problem-statement)    
- [Business Objectives](#-business-objectives)
+ [Business Objectives](#-business-objectives)    
  [Dataset Overview](#-dataset-overview)  
  [Tools & Techniques](#-tools--techniques)  
  [Data Preparation & Cleaning](#-data-preparation--cleaning)  
  [Methods and Excel Implementation](#-methods-and-excel-implementation)  
  [Files in This Repository](#-files-in-this-repository)  
  [Dashboard Overview](#-dashboard-overview)  
- [How to Run the Project](#-how-to-run-the-project) 
+ [How to Run the Project](#-how-to-run-the-project)     
  [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
  [Key Insights & Findings](#-key-insights-&-findings)    
  [Business Recommendations](#-business-recommendations)  
@@ -146,13 +146,14 @@ Lack of a centralized dashboard made analysis manual, slow, and inefficient.
 
 ## 📂 Files in This Repository
 
+```
 📁 **Product Region Sales Performance & Analysis**  
 │  
-├── 📊 Regional Sales Performance Analysis (.xlsx)  
-├── 📄 Product Region Sales Analysis Report (.docx)  
-├── 🖼 Product Region Sales Analysis Dashboard Image (.png)  
-├── 📘 README.md  
-
+├── 📊 regional_sales_performance_analysis_dataset_&_dashboard (.xlsx)       # Project dataset and Excel dashboard file
+├── 📄 regional_sales_performance_analysis_report (.pdf)                     # Detailed project report
+├── 🖼 regional_sales_performance_analysis_dashboard_image (.png)             # Dashboard screenshot
+├── 📘 readme.md                                                             # Project documentation
+```
 ---
 
 ## 🖥 Dashboard Overview
